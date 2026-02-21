@@ -1,0 +1,10 @@
+torch
+transformers
+faiss-cpu
+fastapi
+uvicorn
+pillow
+numpy
+pydantic
+sentence-transformers
+python-dotenv
