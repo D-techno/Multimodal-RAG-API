@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multimodal RAG API
 
 A production-style Retrieval-Augmented Generation (RAG) system built using:
@@ -37,3 +38,16 @@ User Query
 
 ```bash
 uvicorn app.main:app --reload
+=======
+---
+title: RAG API
+emoji: ⚡
+colorFrom: green
+colorTo: yellow
+sdk: docker
+pinned: false
+license: mit
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+>>>>>>> dd9b33f6efac0488cd2d856184fffb45310e7383
